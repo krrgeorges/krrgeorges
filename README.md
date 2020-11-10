@@ -7,6 +7,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-2874A6?style=flat-square&logo=python&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/-Java-B03A2E?style=flat-square&logo=java&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-2E86C1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-00B0D8?&style=flat-square&logo=probot&logoColor=white" alt="Selenium">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-5DADE2?style=flat-square&logo=php&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-2E86C1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/XAMPP-DC7633?&style=flat-square&logo=xampp&logoColor=white" alt="XAMPP">
