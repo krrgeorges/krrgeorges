@@ -6,13 +6,14 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-2874A6?style=flat-square&logo=python&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/-Java-B03A2E?style=flat-square&logo=java&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-5DADE2?style=flat-square&logo=php&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-2E86C1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-5DADE2?style=flat-square&logo=php&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-2E86C1?style=flat-square&logo=mysql&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-E74C3C?style=flat-square&logo=redis&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/-Android-2ECC71?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/-Kotlin-D35400?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/-Postman-D35400?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/-Scala-C0392B?style=flat-square&logo=scala&logoColor=white" alt="Kotlin">
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
