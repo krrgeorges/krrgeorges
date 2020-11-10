@@ -1,6 +1,6 @@
 <h1>Hey, nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Rojit George. My endeavors encompasses a broad spectrum ranging from Data Mining and Processing, Spiders, Databases(RDBMS and NoSQL based), Asynchronous Programming, NLP, Scripting, Utility and Service Development, Multi-threading, Mobile and Desktop Application Development and Automation in a variety of domains ranging from Scanners, Desktop and Mobile automation, Data Monitors, data collection engines and automatic data ingestion engines. I am keen to explore many other facets of the domain of Computer Science and gain valuable insights, knowledge and experiences.</p>
+<p>Welcome to my page! </br></br> I'm Rojit George. My endeavors encompasses a broad spectrum ranging from Data Mining and Processing, Spiders, Databases(RDBMS and NoSQL based), Asynchronous Programming, NLP, Scripting, Utility and Service Development, Multi-threading, Mobile and Desktop Application Development and Automation in a variety of domains ranging from Scanners, Desktop and Mobile automation, Data Monitors, data collection engines and automatic data ingestion engines. I am keen to explore many other facets of the domain of Computer Science and gain valuable insights, knowledge and experiences.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -20,6 +20,12 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<h3>Contributions Page</h3>
+
+<p>I have compiled and am compiling a number of datasets for research and application development. You can find them at my <a target="_blank" href="https://www.github.com/rrgeorge-pdcontributions">Personal Contributions Page</a></p>
+
 <h3>Where to find me</h3>
-<p><a href="https://github.com/krrgeorges" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p>
+  <a target="_blank" href="https://github.com/krrgeorges" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-2C3E50?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/rojit-george"><img src="https://img.shields.io/badge/Linkedin-1A5276?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
