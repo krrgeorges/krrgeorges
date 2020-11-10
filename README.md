@@ -33,4 +33,5 @@
 <p>
   <a target="_blank" href="https://github.com/krrgeorges" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-2C3E50?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/rojit-george"><img src="https://img.shields.io/badge/Linkedin-1A5276?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><<img src="https://img.shields.io/badge/email-rojitrgeorge@gmail.com-48C9B0?&style=for-the-badge">/a>
 </p>
