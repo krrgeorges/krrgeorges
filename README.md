@@ -9,9 +9,9 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-2E86C1?style=flat-square&logo=postgresql&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-5DADE2?style=flat-square&logo=php&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-2E86C1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/XAMPP-DC7633?&style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
-  <img src="https://img.shields.io/badge/JSON-000000?&style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-  <img src="https://img.shields.io/badge/Flask-1F618D?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/XAMPP-DC7633?&style=flat-square&logo=xampp&logoColor=white" alt="XAMPP">
+  <img src="https://img.shields.io/badge/JSON-000000?&style=flat-square&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/Flask-1F618D?&style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-E74C3C?style=flat-square&logo=redis&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/-Android-2ECC71?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/-Kotlin-D35400?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
