@@ -1,6 +1,6 @@
-<h2>Hey, nice to see you.</h2>
+<h2>Hello there</h2>
 
-<p>Welcome to my page! </br></br> I'm Rojit George. My endeavors encompasses a broad spectrum ranging from Data Mining and Processing, Spiders, Databases(RDBMS and NoSQL based), Asynchronous Programming, NLP, Scripting, Utility and Service Development, Multi-threading, Mobile and Desktop Application Development and Automation in a variety of domains ranging from Scanners, Desktop and Mobile automation, Data Monitors, data collection engines and automatic data ingestion engines. I am keen to explore many other facets of the domain of Computer Science and gain valuable insights, knowledge and experiences.</p>
+<p>I'm Rojit George. My endeavors encompasses a broad spectrum ranging from Data Mining and Processing, Spiders, Databases(RDBMS and NoSQL based), Asynchronous Programming, NLP, Scripting, Utility and Service Development, Multi-threading, Mobile and Desktop Application Development and Automation in a variety of domains ranging from Scanners, Desktop and Mobile automation, Data Monitors, data collection engines and automatic data ingestion engines. I am keen to explore many other facets of the domain of Computer Science and gain valuable insights, knowledge and experiences.</p>
 
 <h3>Things I code with</h3>
 <p>
